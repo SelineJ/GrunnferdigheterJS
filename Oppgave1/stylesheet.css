@@ -1,0 +1,33 @@
+#app{
+    margin-left: 50px;
+    
+}
+body{
+    
+    padding: 0%;
+    margin:auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color:rgba(241, 159, 248, 0.479);
+}
+.svar{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+
+}
+.svarAlternativer{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: block;
+    width: 80px;
+    background-color:lightgreen;
+    
+}
+.svarAlternativer:hover:enabled{
+    background-color: limegreen;
+
+}
+.svarAlternativer:hover:disabled{
+  
+    display: block;
+    width: 80px;
+    background-color:lightgreen;
+}
